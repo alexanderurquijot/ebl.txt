@@ -1,2 +1,4 @@
 www.utorrent.com
 *.utorrent.com
+*.onlyfans.com
+onlyfans.com
